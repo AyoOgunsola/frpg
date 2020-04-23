@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Engine", "Engine\Engine.csproj", "{CB8C2725-EABD-4090-AC87-75A65B80F92F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gameview", "..\..\..\..\..\Desktop\Custom Games\Programming\frpg\Gameview\Gameview.csproj", "{4A46F186-D928-4FFB-AA2C-52B2F8E65F06}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CB8C2725-EABD-4090-AC87-75A65B80F92F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB8C2725-EABD-4090-AC87-75A65B80F92F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB8C2725-EABD-4090-AC87-75A65B80F92F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB8C2725-EABD-4090-AC87-75A65B80F92F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A46F186-D928-4FFB-AA2C-52B2F8E65F06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A46F186-D928-4FFB-AA2C-52B2F8E65F06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A46F186-D928-4FFB-AA2C-52B2F8E65F06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A46F186-D928-4FFB-AA2C-52B2F8E65F06}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD2D6CC8-D56E-4063-8118-8327655412C3}
+	EndGlobalSection
+EndGlobal
