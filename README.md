@@ -1,2 +1,2 @@
 # frpg
-Java RPG to test out JavaFX and for fun.
+C# rpg game made for fun
